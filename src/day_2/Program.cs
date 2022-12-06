@@ -1,11 +1,4 @@
-﻿// Them             Us
-// A -> Rock (1)      -> X
-// B -> Paper (2)     -> Y
-// C -> Scissors (3)  -> Z
-
-// Strat: Win (6) Lose (0) Draw (3)
-
-string ROCK = "A";
+﻿string ROCK = "A";
 string PAPER = "B";
 string SCISSORS = "C";
 
